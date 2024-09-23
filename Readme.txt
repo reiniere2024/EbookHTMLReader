@@ -13,7 +13,7 @@ zip-file and you will get a directory containing a html file and a
 map containing images. Rename the directory and html file and add
 the directory then to the "EBooks" folder of the program.
 
-When you open the solution in Visual Studio then don't forget to
+When you open the solution in Visual Studio 2008 then don't forget to
 move the maps XML and EBooks to the bin/debug directory when you
 want to run the code.
 
