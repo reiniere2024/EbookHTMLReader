@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <afschrijving>
+    <transdate></transdate>
+    <transname></transname>
+    <account></account>
+    <account2></account2>
+    <code></code>
+    <type></type>
+    <mutation></mutation>
+    <mutationsort></mutationsort>
+    <mededeling></mededeling>
+    <categorie></categorie>
+  </afschrijving>
+</NewDataSet>

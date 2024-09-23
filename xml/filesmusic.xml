@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <FILES>
+    <IN>C:\___ProjectsNow\_____Itch\ClipsPlayer\bin\Release\Clips</IN>
+    <OUT>C:\___ProjectsNow\_____Itch\ClipsPlayer\bin\Release\Clips</OUT>
+    <DRIVE>C:</DRIVE>
+    <VLC>/VLC</VLC>
+    <MPC>/MPC</MPC>
+    <MPL>wmplayer.exe</MPL>
+    <SM>/SMPlayer</SM>
+  </FILES>
+</NewDataSet>

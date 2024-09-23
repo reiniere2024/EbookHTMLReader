@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <BOEKINGEN>
+    <Datum></Datum>
+    <Naam></Naam>
+    <Rekening></Rekening>
+    <Tegenrekening></Tegenrekening>
+    <Code></Code>
+    <AfBij></AfBij>
+    <Bedrag></Bedrag>
+    <MutatieSoort></MutatieSoort>
+    <Mededelingen></Mededelingen>
+  </BOEKINGEN>
+</NewDataSet>

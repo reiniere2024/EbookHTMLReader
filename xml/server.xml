@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SERVER>
+    <RDBMS>ACCESS</RDBMS>
+    <SERVERIN />
+    <USERIN>admin</USERIN>
+    <PASSWORDIN />
+    <DATABASEIN>Database\EbooksDB.mdb</DATABASEIN>
+    <BANK>RABO</BANK>
+  </SERVER>
+</NewDataSet>

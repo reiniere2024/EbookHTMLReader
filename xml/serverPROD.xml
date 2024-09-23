@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SERVER>
+    <RDBMS>ACCESS</RDBMS>
+    <SERVERIN />
+    <USERIN>admin</USERIN>
+    <PASSWORDIN />
+    <DATABASEIN>Database\Bank.mdb</DATABASEIN>
+    <BANK>RABO</BANK>
+  </SERVER>
+  <SERVER>
+    <RDBMS>ACCESS</RDBMS>
+    <SERVERIN />
+    <USERIN>admin</USERIN>
+    <PASSWORDIN />
+    <DATABASEIN>Database\BankEmpty.mdb</DATABASEIN>
+    <BANK>RABO</BANK>
+  </SERVER>
+</NewDataSet>
